@@ -1,0 +1,6 @@
+2025-10-27 13:21:26,100 - INFO - User Action: Attempting operation on 100 and 5
+2025-10-27 13:21:26,112 - INFO - Operation Success: Result is 20.0
+2025-10-27 13:21:26,113 - INFO - User Action: Attempting operation on 50 and 0
+2025-10-27 13:21:26,113 - ERROR - Operation Failed: Cannot divide by zero.
+2025-10-27 13:21:26,113 - INFO - User Action: Attempting operation on 25 and 2
+2025-10-27 13:21:26,113 - INFO - Operation Success: Result is 12.5
